@@ -1,0 +1,12 @@
+---
+username: wang
+gender: male
+age: 22
+contacts:
+  qq: 175354721
+  e-mail: wanghui_java@foxmail.com
+hobbies:
+- basketball
+- football
+- volleyball
+- [swimming, running]
